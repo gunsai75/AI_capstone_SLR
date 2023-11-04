@@ -1,0 +1,1 @@
+<em>Welcome to the documentation of the ASL - Sign Language recognition project</em>

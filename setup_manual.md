@@ -1,1 +1,0 @@
-<em>Welcome to the set-up manual of the Sign Language recognition program</em>
