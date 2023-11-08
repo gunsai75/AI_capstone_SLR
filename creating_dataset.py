@@ -1,4 +1,5 @@
 #  ------ WORK IN PROGRESS. I am just messing around with stuff ------
+#						This is not the final code
 
 import cv2 as cv
 import mediapipe as mp
@@ -18,3 +19,4 @@ for dir_ in os.listdir(DATA_DIR):
 plt.show()
 
 #  ------ WORK IN PROGRESS. I am just messing around with stuff ------
+#						This is not the final code
