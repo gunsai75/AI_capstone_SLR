@@ -1,7 +1,6 @@
 import cv2 as cv
 import mediapipe as mp
 import os
-import matplotlib.pyplot as plt
 import pickle
 
 mp_hands = mp.solutions.hands
