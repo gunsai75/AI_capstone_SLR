@@ -1,6 +1,3 @@
-#  ------ WORK IN PROGRESS. I am just messing around with stuff ------
-#				This is not the final code
-
 import cv2 as cv
 import mediapipe as mp
 import os
@@ -39,6 +36,3 @@ for dir_ in os.listdir(DATA_DIR):
 f = open('data.pickle', 'wb')	# Creates data.pickle in the working directory
 pickle.dump({'data': data, 'labels': labels}, f)	# Writes the data and labels into the file
 f.close()
-
-#  ------ WORK IN PROGRESS. I am just messing around with stuff ------
-#				This is not the final code
