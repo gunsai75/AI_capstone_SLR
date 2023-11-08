@@ -9,7 +9,7 @@ mp_drawing_styles = mp.solutions.drawing_styles
 
 hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)	# Mediapipe recognition system amongus
 
-DATA_DIR =  'learning/data' # Directory where the data is stored
+DATA_DIR =  './data' # Directory where the data is stored
 
 data = []	# Array of data points
 labels = []	# Array of labels
