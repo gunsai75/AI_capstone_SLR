@@ -8,7 +8,7 @@
 git clone https://github.com/gunsai75/AI_capstone_SLR.git
 ```
 - Installing the required modules
-> Note: This will install the above mentioned modules in the [Prerequsites] section in `README.md`; Considering that you have installed [Python3] (https://www.python.org/downloads/) already.
+> Note: This will install the above mentioned modules in the [Prerequsites] section in `README.md`; Considering that you have installed [Python3](https://www.python.org/downloads/) already.
 ```bash
 pip install -r requirements.txt
 ```
