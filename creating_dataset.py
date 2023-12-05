@@ -7,7 +7,7 @@ mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 
-hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)	# Mediapipe recognition system amongus
+hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)	# Setting the hyper-parameters for mediapipe 
 
 DATA_DIR =  './data' # Directory where the data is stored
 
