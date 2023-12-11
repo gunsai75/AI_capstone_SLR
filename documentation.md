@@ -32,7 +32,7 @@ py creating_datatset.py
 - A new file, `model.p` is created that contains the parameters that can be then later used for testing the model.
 
 ```sh
-py train_classifier_model.py
+py train_classifier_model.p
 ```
 
 ### Testing
